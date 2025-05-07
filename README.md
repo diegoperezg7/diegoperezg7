@@ -44,8 +44,7 @@ Soy desarrollador de soluciones de automatización con inteligencia artificial, 
 
 Creo en la tecnología que **resuelve problemas reales**. Me apasiona la IA no solo como innovación, sino como herramienta práctica para mejorar vidas, especialmente en contextos donde la simplicidad y eficiencia marcan la diferencia.
 
-Actualmente, exploro cómo los agentes IA pueden ser accesibles y útiles para personas no técnicas, y cómo integrarlos en interfaces móviles mediante React Native.
-
+Actualmente, exploro cómo los agentes IA pueden ser accesibles y útiles para personas no técnicas.
 ---
 
 ## 📫 Contacto
