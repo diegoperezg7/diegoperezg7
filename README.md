@@ -24,7 +24,7 @@ Soy desarrollador de soluciones de automatización con inteligencia artificial, 
 ## 🔧 Stack principal
 
 - Automatización: `n8n`, `Make`, `OpenAI API`, `LangChain`, `Supabase`
-- Desarrollo: `React`, `Python`, `PHP`, `Docker`, `MySQL`
+- Desarrollo: `HTML`, `Python`, `PHP`, `Docker`, `MySQL`
 - Cloud/IA: `AWS`, `Azure AI`, `Whisper`, `GPT-4`
 - Seguridad: `Suricata`, `Análisis forense`, `Linux avanzado`
 
