@@ -11,7 +11,7 @@ Soy especialista en automatización con inteligencia artificial, con una sólida
 - Desarrollo de múltiples agentes IA en n8n, Make y OpenAI para tareas reales (atención, contabilidad, RRHH, marketing...)
 
 ## 🔧 Stack principal
-- `n8n`, `Make`, `OpenAI API`, `Supabase`, `React`, `Python`, `Docker`, `AWS`, `Azure ML`, `PHP`, `MySQL`, `Suricata`
+- `n8n`, `Make`, `OpenAI API`, `Supabase`, `React`, `Python`, `Docker`, `AWS`, `Azure AI`, `PHP`, `MySQL`, `Suricata`
 
 ## 📂 Proyectos destacados
 
@@ -19,7 +19,7 @@ Soy especialista en automatización con inteligencia artificial, con una sólida
 |---------------------------------|----------------------------------------------------------------------------|-----------------------------|
 | [NeuraX Web](https://github.com/diegoperezg7/NeuraX-web)                 | Web React de mi agencia de automatización con IA                           | React, n8n, Make            |
 | [Agentes IA (Workflows)](#)     | Workflows reales para clientes: RRHH, marketing, contabilidad, atención    | n8n, Make, OpenAI, Supabase |
-| [SecNet - TFG ASIR](#)          | Sistema de análisis forense automático de alertas con Suricata             | Python, PHP, Docker         |
+| [SecNet - TFG ASIR](https://github.com/diegoperezg7/SecNet-TFG)          | Sistema de análisis forense automático de alertas con Suricata             | Python, PHP, Docker         |
 | [SmartOccupation](#)            | Proyecto de configuración y redes con seguridad                            | Redes, MySQL, VLAN, Linux   |
 
 📫 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia) · 📧 diegoperezgarc@gmail.com
