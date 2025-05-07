@@ -1,25 +1,54 @@
 # 👋 ¡Hola! Soy Diego Pérez García
 
-Soy especialista en automatización con inteligencia artificial, con una sólida base técnica en administración de sistemas, análisis forense digital y desarrollo de soluciones que optimizan procesos en empresas reales.
+Soy desarrollador de soluciones de automatización con inteligencia artificial, con una sólida base técnica en administración de sistemas, ciberseguridad y análisis forense digital. Me especializo en construir **agentes inteligentes y flujos de automatización** que resuelven problemas reales en empresas y startups.
 
-🎯 Enfocado en crear agentes inteligentes, flujos de automatización y aplicaciones IA que aporten valor inmediato.
+🎯 Me motiva la eficiencia, la optimización de procesos y el uso estratégico de la tecnología para liberar tiempo, reducir costes y escalar operaciones. Me considero una persona resolutiva, autodidacta y con mentalidad de producto.
+
+---
 
 ## 💼 Experiencia y Formación
-- Técnico en Administración de Sistemas Informáticos en Red (ASIR)
-- Formación y práctica en ciberseguridad, cloud, IA, automatización y agentes LLM
-- Experiencia en soporte técnico y automatización (Grupo SIA - Indra, 2025)
-- Desarrollo de múltiples agentes IA en n8n, Make y OpenAI para tareas reales (atención, contabilidad, RRHH, marketing...)
+
+- 🎓 Técnico en Administración de Sistemas Informáticos en Red (ASIR)
+- 🧠 Formación práctica en ciberseguridad, cloud, IA, automatización y agentes LLM
+- 🧩 Experiencia en soporte técnico y automatización (Grupo SIA - Indra, 2025)
+- 🚀 Desarrollo de **NeuraX** como proyecto personal: una iniciativa centrada en crear agentes IA para automatizar tareas clave en entornos empresariales.
+- 🧠 Construcción de agentes inteligentes usando `n8n`, `Make`, `OpenAI`, integrados con:
+  - Sistemas de atención al cliente
+  - Marketing y redes sociales
+  - Contabilidad y facturación
+  - Selección de personal (RRHH)
+  - Asistencia legal e inteligencia de datos
+
+---
 
 ## 🔧 Stack principal
-- `n8n`, `Make`, `OpenAI API`, `Supabase`, `React`, `Python`, `Docker`, `AWS`, `Azure AI`, `PHP`, `MySQL`, `Suricata`
+
+- Automatización: `n8n`, `Make`, `OpenAI API`, `LangChain`, `Supabase`
+- Desarrollo: `React`, `Python`, `PHP`, `Docker`, `MySQL`
+- Cloud/IA: `AWS`, `Azure AI`, `Whisper`, `GPT-4`
+- Seguridad: `Suricata`, `Análisis forense`, `Linux avanzado`
+
+---
 
 ## 📂 Proyectos destacados
 
-| Proyecto                        | Descripción                                                                | Tecnologías                 |
-|---------------------------------|----------------------------------------------------------------------------|-----------------------------|
-| [NeuraX Web](https://github.com/diegoperezg7/NeuraX-web)                 | Web React de mi agencia de automatización con IA                           | React, n8n, Make            |
-| [Agentes IA (Workflows)](https://github.com/diegoperezg7/Agentes-IA)     | Workflows reales para clientes: RRHH, marketing, contabilidad, atención    | n8n, Make, OpenAI, Supabase |
-| [SecNet - TFG ASIR](https://github.com/diegoperezg7/SecNet-TFG)          | Sistema de análisis forense automático de alertas con Suricata             | Python, PHP, Docker         |
+| Proyecto                        | Descripción                                                                  | Tecnologías                 |
+|---------------------------------|------------------------------------------------------------------------------|-----------------------------|
+| [NeuraX Web](https://github.com/diegoperezg7/NeuraX-web)                 | Prototipo web para NeuraX (proyecto personal de automatización con IA)     | React, n8n, Make            |
+| [Agentes IA (Workflows)](https://github.com/diegoperezg7/Agentes-IA)     | Colección de agentes inteligentes para tareas empresariales                 | n8n, Make, OpenAI, Supabase |
+| [SecNet - TFG ASIR](https://github.com/diegoperezg7/SecNet-TFG)          | Sistema de análisis forense automático basado en alertas de red             | Python, PHP, Docker         |
 
+---
 
-📫 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia) · 📧 diegoperezgarc@gmail.com
+## 🧭 Filosofía de trabajo
+
+Creo en la tecnología que **resuelve problemas reales**. Me apasiona la IA no solo como innovación, sino como herramienta práctica para mejorar vidas, especialmente en contextos donde la simplicidad y eficiencia marcan la diferencia.
+
+Actualmente, exploro cómo los agentes IA pueden ser accesibles y útiles para personas no técnicas, y cómo integrarlos en interfaces móviles mediante React Native.
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia)
+- 📧 [diegoperezgarc@gmail.com](mailto:diegoperezgarc@gmail.com)
