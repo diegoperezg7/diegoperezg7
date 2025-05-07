@@ -18,8 +18,8 @@ Soy especialista en automatización con inteligencia artificial, con una sólida
 | Proyecto                        | Descripción                                                                | Tecnologías                 |
 |---------------------------------|----------------------------------------------------------------------------|-----------------------------|
 | [NeuraX Web](https://github.com/diegoperezg7/NeuraX-web)                 | Web React de mi agencia de automatización con IA                           | React, n8n, Make            |
-| [Agentes IA (Workflows)](#)     | Workflows reales para clientes: RRHH, marketing, contabilidad, atención    | n8n, Make, OpenAI, Supabase |
+| [Agentes IA (Workflows)](https://github.com/diegoperezg7/Agentes-IA)     | Workflows reales para clientes: RRHH, marketing, contabilidad, atención    | n8n, Make, OpenAI, Supabase |
 | [SecNet - TFG ASIR](https://github.com/diegoperezg7/SecNet-TFG)          | Sistema de análisis forense automático de alertas con Suricata             | Python, PHP, Docker         |
-| [SmartOccupation](#)            | Proyecto de configuración y redes con seguridad                            | Redes, MySQL, VLAN, Linux   |
+
 
 📫 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia) · 📧 diegoperezgarc@gmail.com
