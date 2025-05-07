@@ -17,7 +17,7 @@ Soy especialista en automatización con inteligencia artificial, con una sólida
 
 | Proyecto                        | Descripción                                                                | Tecnologías                 |
 |---------------------------------|----------------------------------------------------------------------------|-----------------------------|
-| [NeuraX Web](#)                 | Web React de mi agencia de automatización con IA                           | React, n8n, Make            |
+| [NeuraX Web](https://github.com/diegoperezg7/NeuraX-web)                 | Web React de mi agencia de automatización con IA                           | React, n8n, Make            |
 | [Agentes IA (Workflows)](#)     | Workflows reales para clientes: RRHH, marketing, contabilidad, atención    | n8n, Make, OpenAI, Supabase |
 | [SecNet - TFG ASIR](#)          | Sistema de análisis forense automático de alertas con Suricata             | Python, PHP, Docker         |
 | [SmartOccupation](#)            | Proyecto de configuración y redes con seguridad                            | Redes, MySQL, VLAN, Linux   |
