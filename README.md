@@ -10,7 +10,7 @@ Soy desarrollador de soluciones de automatización con inteligencia artificial, 
 
 - 🎓 Técnico en Administración de Sistemas Informáticos en Red (ASIR)
 - 🧠 Formación práctica en ciberseguridad, cloud, IA, automatización y agentes LLM
-- 🧩 Experiencia en soporte técnico y automatización (Grupo SIA - Indra, 2025)
+- 🧩 Experiencia en soporte técnico (Minsait Cyber - Indra, 2025)
 - 🚀 Desarrollo de **NeuraX** como proyecto personal: una iniciativa centrada en crear agentes IA para automatizar tareas clave en entornos empresariales.
 - 🧠 Construcción de agentes inteligentes usando `n8n`, `Make`, `OpenAI`, integrados con:
   - Sistemas de atención al cliente
