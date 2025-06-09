@@ -36,7 +36,7 @@ Soy desarrollador de soluciones de automatización con inteligencia artificial, 
 |---------------------------------|------------------------------------------------------------------------------|-----------------------------|
 | [NeuraX Web](https://github.com/diegoperezg7/NeuraX-web)                 | Prototipo web para NeuraX (proyecto personal de automatización con IA)     | React, n8n, Make            |
 | [Agentes IA (Workflows)](https://github.com/diegoperezg7/Agentes-IA)     | Colección de agentes inteligentes para tareas empresariales                 | n8n, Make, OpenAI, Supabase |
-| [SecNet - TFG ASIR](https://github.com/diegoperezg7/SecNet-TFG)          | Sistema de análisis forense automático basado en alertas de red             | Python, PHP, Docker         |
+| [SecNet - TFG ASIR](https://github.com/diegoperezg7/TFG-SecNet)          | Sistema de análisis forense automático basado en alertas de red             | Python, PHP, Docker         |
 
 ---
 
