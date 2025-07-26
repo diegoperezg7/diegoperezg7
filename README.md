@@ -1,53 +1,54 @@
-# 👋 ¡Hola! Soy Diego Pérez García
+# 👋 Hello! I'm Diego Pérez García
 
-Soy desarrollador de soluciones de automatización con inteligencia artificial, con una sólida base técnica en administración de sistemas, ciberseguridad y análisis forense digital. Me especializo en construir **agentes inteligentes y flujos de automatización** que resuelven problemas reales en empresas y startups.
+I'm a developer of intelligent automation solutions, with a solid technical background in systems administration, cybersecurity, and digital forensics. I specialize in building **smart agents and automation workflows** that solve real-world problems for businesses and startups.
 
-🎯 Me motiva la eficiencia, la optimización de procesos y el uso estratégico de la tecnología para liberar tiempo, reducir costes y escalar operaciones. Me considero una persona resolutiva, autodidacta y con mentalidad de producto.
-
----
-
-## 💼 Experiencia y Formación
-
-- 🎓 Técnico en Administración de Sistemas Informáticos en Red (ASIR)
-- 🧠 Formación práctica en ciberseguridad, cloud, IA, automatización y agentes LLM
-- 🧩 Experiencia en soporte técnico (Minsait Cyber - Indra, 2025)
-- 🚀 Desarrollo de **NeuraX** como proyecto personal: una iniciativa centrada en crear agentes IA para automatizar tareas clave en entornos empresariales.
-- 🧠 Construcción de agentes inteligentes usando `n8n`, `Make`, `OpenAI`, integrados con:
-  - Sistemas de atención al cliente
-  - Marketing y redes sociales
-  - Contabilidad y facturación
-  - Selección de personal (RRHH)
-  - Asistencia legal e inteligencia de datos
+🎯 I'm driven by efficiency, process optimization, and the strategic use of technology to save time, reduce costs, and scale operations. I consider myself a problem-solver, self-taught, and product-oriented.
 
 ---
 
-## 🔧 Stack principal
+## 💼 Experience & Education
 
-- Automatización: `n8n`, `Make`, `OpenAI API`, `LangChain`, `Supabase`
-- Desarrollo: `HTML`, `Python`, `PHP`, `Docker`, `MySQL`
-- Cloud/IA: `AWS`, `Azure AI`, `Whisper`, `GPT-4`
-- Seguridad: `Suricata`, `Análisis forense`, `Linux avanzado`
-
----
-
-## 📂 Proyectos destacados
-
-| Proyecto                        | Descripción                                                                  | Tecnologías                 |
-|---------------------------------|------------------------------------------------------------------------------|-----------------------------|
-| [Web de NeuraX](https://github.com/diegoperezg7/Web-NeuraX)                 | Prototipo web para NeuraX (proyecto personal de automatización con IA)     | React, n8n, Make            |
-| [Agentes IA (Workflows)](https://github.com/diegoperezg7/Agentes-IA)     | Colección de agentes inteligentes para tareas empresariales                 | n8n, Make, OpenAI, Supabase |
-| [SecNet - TFG ASIR](https://github.com/diegoperezg7/TFG-SecNet)          | Sistema de análisis forense automático basado en alertas de red             | Python, PHP, Docker         |
+- 🎓 Higher Technician in Computer Network Systems Management.
+- 🧠 Hands-on training in AI, automation, LLM agents, cybersecurity, and cloud.
+- 🧩 Technical support experience (Minsait Cyber – Indra, 2025)
+- 🚀 Creator of **NeuraX**: a personal project focused on building AI agents to automate key tasks in business environments.
+- 🧠 Development of intelligent agents using `n8n`, `Make`, `OpenAI`, integrated with:
+  - Customer support systems  
+  - Marketing and social media  
+  - Accounting and invoicing  
+  - Recruitment and HR  
+  - Legal support and data insight  
 
 ---
 
-## 🧭 Filosofía de trabajo
+## 🔧 Tech Stack
 
-Creo en la tecnología que **resuelve problemas reales**. Me apasiona la IA no solo como innovación, sino como herramienta práctica para mejorar vidas, especialmente en contextos donde la simplicidad y eficiencia marcan la diferencia.
+- Automation: `n8n`, `Make`, `OpenAI API`, `LangChain`, `Supabase`
+- Development: `HTML`, `Python`, `PHP`, `Docker`, `MySQL`
+- Cloud/AI: `AWS`, `Azure AI`, `Whisper`, `GPT-4`
+- Security: `Suricata`, `Forensics`, `Advanced Linux`
 
-Actualmente, exploro cómo los agentes IA pueden ser accesibles y útiles para personas no técnicas.
 ---
 
-## 📫 Contacto
+## 📂 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia)
+| Project                          | Description                                                                   | Technologies                  |
+|----------------------------------|-------------------------------------------------------------------------------|-------------------------------|
+| [NeuraX Web](https://github.com/diegoperezg7/Web-NeuraX)                | Web prototype for NeuraX (personal AI automation project)                   | React, n8n, Make              |
+| [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA)    | Collection of intelligent agents for business operations                    | n8n, Make, OpenAI, Supabase   |
+| [SecNet – Final Project ASIR](https://github.com/diegoperezg7/TFG-SecNet) | Automated forensic system based on network alerts                           | Python, PHP, Docker           |
+
+---
+
+## 🧭 Work Philosophy
+
+I believe in technology that **solves real problems**. I'm passionate about AI not just as innovation, but as a practical tool to improve lives—especially where simplicity and efficiency make the biggest difference.
+
+I'm currently exploring how AI agents can become accessible and useful for non-technical users.
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia)  
 - 📧 [diegoperezgarc@gmail.com](mailto:diegoperezgarc@gmail.com)
