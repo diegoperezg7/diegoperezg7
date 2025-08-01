@@ -11,7 +11,7 @@ I'm a developer of intelligent automation solutions, with a solid technical back
 - 🎓 Higher Technician in Computer Network Systems Management.
 - 🧠 Hands-on training in AI, automation, LLM agents, cybersecurity, and cloud.
 - 🧩 Technical support experience (Minsait Cyber – Indra, 2025)
-- 🚀 Creator of **NeuraX**: a personal project focused on building AI agents to automate key tasks in business environments.
+- 🚀 Creator of **INEXIA**: a personal project focused on building AI agents to automate key tasks in business environments.
 - 🧠 Development of intelligent agents using `n8n`, `Make`, `OpenAI`, integrated with:
   - Customer support systems  
   - Marketing and social media  
@@ -34,7 +34,7 @@ I'm a developer of intelligent automation solutions, with a solid technical back
 
 | Project                          | Description                                                                   | Technologies                  |
 |----------------------------------|-------------------------------------------------------------------------------|-------------------------------|
-| [NeuraX Web](https://github.com/diegoperezg7/Web-NeuraX)                | Web prototype for NeuraX (personal AI automation project)                   | React, n8n, Make              |
+| [INEXIA Web](https://github.com/diegoperezg7/Web-NeuraX)                | Web prototype for INEXIA (personal AI automation project)                   | React, n8n, Make              |
 | [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA)    | Collection of intelligent agents for business operations                    | n8n, Make, OpenAI, Supabase   |
 | [SecNet – Final Project ASIR](https://github.com/diegoperezg7/TFG-SecNet) | Automated forensic system based on network alerts                           | Python, PHP, Docker           |
 
