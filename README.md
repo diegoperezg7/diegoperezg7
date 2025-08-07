@@ -1,54 +1,64 @@
-# 👋 Hello! I'm Diego Pérez García
+# 👋 Hi, I'm Diego Pérez García
 
-I'm a developer of intelligent automation solutions, with a solid technical background in systems administration, cybersecurity, and digital forensics. I specialize in building **smart agents and automation workflows** that solve real-world problems for businesses and startups.
+I'm a specialist in **AI-powered automation**, with a strong background in systems administration, cybersecurity, and digital forensics. I design and build **intelligent agents and automation workflows** that solve real-world problems — helping businesses save time, reduce costs, and scale faster.
 
-🎯 I'm driven by efficiency, process optimization, and the strategic use of technology to save time, reduce costs, and scale operations. I consider myself a problem-solver, self-taught, and product-oriented.
+Currently focused on making AI accessible to non-technical users through practical solutions.
 
 ---
 
 ## 💼 Experience & Education
 
-- 🎓 Higher Technician in Computer Network Systems Management.
-- 🧠 Hands-on training in AI, automation, LLM agents, cybersecurity, and cloud.
-- 🧩 Technical support experience (Minsait Cyber – Indra, 2025)
-- 🚀 Creator of **INEXIA**: a personal project focused on building AI agents to automate key tasks in business environments.
-- 🧠 Development of intelligent agents using `n8n`, `Make`, `OpenAI`, integrated with:
-  - Customer support systems  
-  - Marketing and social media  
-  - Accounting and invoicing  
-  - Recruitment and HR  
-  - Legal support and data insight  
+- 🎓 Higher Technician in Computer Network Systems Management (ASIR).
+- 🎓 Complementary training in Artificial Intelligence, LLM agents, automation, and cloud platforms (IBM, Microsoft, AWS).
+- 🛡️ **Cyber Security Support Technician** – Minsait Cyber (Indra) | *March 2025 – June 2025*
+- 🚀 Creator of **INEXIA** – a solo project focused on building AI agents to automate key business tasks.
+- 🤖 Development of intelligent agents using `n8n`, `Make`, `OpenAI`, and integrations with:
+  - Customer support platforms  
+  - Marketing and social media workflows  
+  - Accounting and invoicing tools  
+  - HR and recruitment automation  
+  - Legal insights and document handling  
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- Automation: `n8n`, `Make`, `OpenAI API`, `LangChain`, `Supabase`
-- Development: `HTML`, `Python`, `PHP`, `Docker`, `MySQL`
-- Cloud/AI: `AWS`, `Azure AI`, `Whisper`, `GPT-4`
-- Security: `Suricata`, `Forensics`, `Advanced Linux`
+**AI & Automation**
+- `n8n`, `Make`, `LangChain`, `OpenAI API`, `Supabase`, `Whisper`, `Azure AI Studio`
+
+**Programming & Development**
+- `Python`, `PHP`, `HTML/CSS`, `JavaScript`, `Jupyter Notebooks`
+
+**Cloud & DevOps**
+- `AWS`, `Azure`, `Docker`, `GitHub Actions`, `Supabase`, `Render`
+
+**Cybersecurity & Forensics**
+- `Suricata`, `Linux Hardening`, `Network Forensics`, `iptables`, `Wireshark`
+
+**Data & ML**
+- `Pandas`, `NumPy`, `Scikit-Learn`, `Azure ML Studio`
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                          | Description                                                                   | Technologies                  |
-|----------------------------------|-------------------------------------------------------------------------------|-------------------------------|
-| [INEXIA Web](https://github.com/diegoperezg7/Web-NeuraX)                | Web prototype for INEXIA (personal AI automation project)                   | React, n8n, Make              |
-| [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA)    | Collection of intelligent agents for business operations                    | n8n, Make, OpenAI, Supabase   |
-| [SecNet – Final Project ASIR](https://github.com/diegoperezg7/TFG-SecNet) | Automated forensic system based on network alerts                           | Python, PHP, Docker           |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [INEXIA Web](https://github.com/diegoperezg7/Web-NeuraX) | Website and backend logic for my AI automation agency | React, n8n, Make |
+| [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA) | Modular and reusable intelligent agents for business tasks | OpenAI, Supabase, n8n |
+| [SecNet – ASIR Final Project](https://github.com/diegoperezg7/TFG-SecNet) | Automated incident response & forensic system based on network alerts | Python, PHP, Docker |
 
 ---
 
-## 🧭 Work Philosophy
+## 🧭 Philosophy
 
-I believe in technology that **solves real problems**. I'm passionate about AI not just as innovation, but as a practical tool to improve lives—especially where simplicity and efficiency make the biggest difference.
+I believe in technology that **solves real business problems** — not just as innovation, but as a means to create measurable impact. I focus on practicality, scalability, and user-centric design in every solution I build.
 
-I'm currently exploring how AI agents can become accessible and useful for non-technical users.
+My current mission is to **make AI automation easy and useful for small businesses**, startups, and non-technical teams.
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia)  
-- 📧 [diegoperezgarc@gmail.com](mailto:diegoperezgarc@gmail.com)
+- 🔗 [LinkedIn – Diego Pérez García](https://www.linkedin.com/in/diego-perez-garcia)
+- 📧 diegoperezgarc@gmail.com
