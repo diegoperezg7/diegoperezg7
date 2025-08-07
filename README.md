@@ -10,7 +10,7 @@ Currently focused on making AI accessible to non-technical users through practic
 
 - 🎓 Higher Technician in Computer Network Systems Management (ASIR).
 - 🎓 Complementary training in Artificial Intelligence, LLM agents, automation, and cloud platforms (IBM, Microsoft, AWS).
-- 🛡️ **Cyber Security Support Technician** – Minsait Cyber (Indra) | *March 2025 – June 2025*
+- 🛡️ **Cyber Security Support Technician** – Minsait Cyber (Indra) | *March 2025 – Present*
 - 🚀 Creator of **INEXIA** – a solo project focused on building AI agents to automate key business tasks.
 - 🤖 Development of intelligent agents using `n8n`, `Make`, `OpenAI`, and integrations with:
   - Customer support platforms  
@@ -24,13 +24,13 @@ Currently focused on making AI accessible to non-technical users through practic
 ## 🛠️ Tech Stack
 
 **AI & Automation**
-- `n8n`, `Make`, `LangChain`, `OpenAI API`, `Supabase`, `Whisper`, `Azure AI Studio`
+- `n8n`, `Make`, `LangChain`, `OpenAI API`, `Supabase`, `Azure AI Studio`
 
 **Programming & Development**
 - `Python`, `PHP`, `HTML/CSS`, `JavaScript`, `Jupyter Notebooks`
 
 **Cloud & DevOps**
-- `AWS`, `Azure`, `Docker`, `GitHub Actions`, `Supabase`, `Render`
+- `AWS`, `Azure`, `Docker`, `GitHub Actions`, `Supabase`
 
 **Cybersecurity & Forensics**
 - `Suricata`, `Linux Hardening`, `Network Forensics`, `iptables`, `Wireshark`
