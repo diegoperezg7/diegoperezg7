@@ -45,6 +45,7 @@ Currently focused on making AI accessible to non-technical users through practic
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA) | Modular and reusable intelligent agents for business tasks | OpenAI, Supabase, n8n |
+| [INEXIA Web](https://github.com/diegoperezg7/Web-INEXIA) | Website and backend logic for my AI automation agency | React, n8n, Make |
 | [SecNet – ASIR Final Project](https://github.com/diegoperezg7/TFG-SecNet) | Automated incident response & forensic system based on network alerts | Python, PHP, Docker |
 
 ---
