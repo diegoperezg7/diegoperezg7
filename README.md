@@ -44,7 +44,7 @@ Currently focused on making AI accessible to non-technical users through practic
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Portfolio Web](ttps://github.com/diegoperezg7/Portfolio-Web) | Website Portfolio | React, TSX, Supabase, Java |
+| [Portfolio Web](https://github.com/diegoperezg7/Portfolio-Web) | Website Portfolio | React, TSX, Supabase, Java |
 | [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA) | Modular and reusable intelligent agents for business tasks | OpenAI, Supabase, n8n |
 | [SecNet – ASIR Final Project](https://github.com/diegoperezg7/TFG-SecNet) | Automated incident response & forensic system based on network alerts | Python, PHP, Docker |
 | [INEXIA Web](https://github.com/diegoperezg7/Web-INEXIA) | Website and backend logic for my AI automation agency | React, n8n, Make |
