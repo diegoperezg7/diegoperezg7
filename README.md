@@ -42,12 +42,13 @@ Currently focused on making AI accessible to non-technical users through practic
 
 ## 📂 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Portfolio Web](https://github.com/diegoperezg7/Portfolio-Web) | Website Portfolio | React, TSX, Supabase, Java |
-| [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA) | Modular and reusable intelligent agents for business tasks | OpenAI, Supabase, n8n |
-| [SecNet – ASIR Final Project](https://github.com/diegoperezg7/TFG-SecNet) | Automated incident response & forensic system based on network alerts | Python, PHP, Docker |
-| [INEXIA Web](https://github.com/diegoperezg7/Web-INEXIA) | Website and backend logic for my AI automation agency | React, n8n, Make |
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [AI HR Evaluation Agent](https://github.com/diegoperezg7/AI-HR-Evaluation-Agent) | End-to-end intelligent recruitment automation system built with n8n, OpenAI, and Google Workspace. Automates candidate evaluation, scheduling, and communication while keeping human validation in the loop. | n8n • OpenAI (GPT-4 Turbo) • Google Workspace (Docs, Sheets, Gmail, Calendar) • Telegram API |
+| [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA) | Collection of modular and reusable intelligent agents for business automation, task reasoning, and data handling. | n8n • OpenAI • Supabase • Google APIs |
+| [SecNet – ASIR Final Project](https://github.com/diegoperezg7/TFG-SecNet) | Automated incident response and forensic system based on network alerts, integrating Suricata IDS, Python scripting, and Dockerized web interface. | Python • PHP • Docker • Suricata • SQLite |
+| [Portfolio Web](https://github.com/diegoperezg7/Portfolio-Web) | Personal interactive portfolio website showcasing AI and automation projects, with dynamic content management. | React • TypeScript (TSX) • Supabase |
+| [INEXIA Web](https://github.com/diegoperezg7/Web-INEXIA) | Website and backend logic for my AI automation agency — including service presentation and contact form integration with n8n workflows. | React • n8n • Make (Integromat) • Node.js |
 
 ---
 
