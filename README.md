@@ -11,7 +11,6 @@ Currently focused on making AI accessible to non-technical users through practic
 - 🎓 Higher Technician in Computer Network Systems Management (ASIR).
 - 🎓 Complementary training in Artificial Intelligence, LLM agents, automation, and cloud platforms (IBM, Microsoft, AWS).
 - 🛡️ **Cyber Security Support Technician** – IndraMind Cybersecurity | *March 2025 – Present*
-- 🚀 Creator of **INEXIA** – a solo project focused on building AI agents to automate key business tasks.
 - 🤖 Development of intelligent agents using `n8n`, `Make`, `OpenAI`, and integrations with:
   - Customer support platforms  
   - Marketing and social media workflows  
