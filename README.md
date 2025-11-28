@@ -47,7 +47,6 @@ Currently focused on making AI accessible to non-technical users through practic
 | [AI Agents (Workflows)](https://github.com/diegoperezg7/Agentes-IA) | Collection of modular and reusable intelligent agents for business automation, task reasoning, and data handling. | n8n • OpenAI • Supabase • Google APIs |
 | [SecNet – ASIR Final Project](https://github.com/diegoperezg7/TFG-SecNet) | Automated incident response and forensic system based on network alerts, integrating Suricata IDS, Python scripting, and Dockerized web interface. | Python • PHP • Docker • Suricata • SQLite |
 | [Portfolio Web](https://github.com/diegoperezg7/Portfolio-Web) | Personal interactive portfolio website showcasing AI and automation projects, with dynamic content management. | React • TypeScript (TSX) • Supabase |
-| [INEXIA Web](https://github.com/diegoperezg7/Web-INEXIA) | Website and backend logic for my AI automation agency — including service presentation and contact form integration with n8n workflows. | React • n8n • Make (Integromat) • Node.js |
 
 ---
 
