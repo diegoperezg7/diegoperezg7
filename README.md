@@ -15,7 +15,7 @@ I work across the full lifecycle of applied AI: architecture, LLM integration, R
 
 ---
 
-## 🚀 Selected projects
+## 🚀 My projects
 
 ### 📊 [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
 AI investment intelligence dashboard with multi-source sentiment analysis, technical indicators, explainable AI reasoning, and real-time market data. Dual-LLM strategy with provider chain failover.
