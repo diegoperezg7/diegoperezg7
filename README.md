@@ -24,13 +24,6 @@ AI investment intelligence dashboard with multi-source sentiment analysis, techn
 
 ---
 
-### 🎙️ [Jarvis + OpenClaw](https://github.com/diegoperezg7/jarvis-openclaw)
-Voice-first AI assistant with local agent orchestration. Spawns Claude Code sessions for hands-free development, integrates with macOS Calendar/Mail/Notes, and features an audio-reactive Three.js visualization.
-
-`FastAPI` `OpenClaw` `Three.js` `WebSocket` `Claude Code` `AppleScript`
-
----
-
 ### 💰 [MyFinancIA](https://github.com/diegoperezg7/MyFinancIA)
 Self-hosted personal finance app with local AI inference. Natural language transaction classification, financial Q&A with deterministic-first approach, 12-month projections, and scenario modeling.
 
@@ -42,6 +35,20 @@ Self-hosted personal finance app with local AI inference. Natural language trans
 AI-powered rental property management for the Spanish market. OCR document processing, legal compliance automation (LAU/IRAV), contract generation, and financial intelligence dashboards.
 
 `FastAPI` `React 19` `Ollama` `Tesseract` `Supabase` `Docker`
+
+---
+
+### 🎙️ [Jarvis + OpenClaw](https://github.com/diegoperezg7/jarvis-openclaw)
+Voice-first AI assistant with local agent orchestration. Spawns Claude Code sessions for hands-free development, integrates with macOS Calendar/Mail/Notes, and features an audio-reactive Three.js visualization.
+
+`FastAPI` `OpenClaw` `Three.js` `WebSocket` `Claude Code` `AppleScript`
+
+---
+
+### 📡 [Server Monitor AI](https://github.com/diegoperezg7/server-monitor-AI)
+Self-hosted real-time server monitoring dashboard with CrowdSec security integration, Docker container tracking, Telegram alerts, IP geolocation attack maps, and automatic service recovery.
+
+`Node.js` `Express` `CrowdSec` `Docker` `Telegram` `Leaflet.js`
 
 ---
 
@@ -65,7 +72,7 @@ Automated network incident detection and response system. Suricata IDS/IPS with 
 |---|---|
 | **Languages** | Python, TypeScript, SQL, Bash |
 | **Frontend** | React, Next.js, Vite, Zustand, Three.js, Framer Motion |
-| **Backend** | FastAPI, Fastify, Flask |
+| **Backend** | FastAPI, Fastify, Flask, Express |
 | **AI / LLMs** | Ollama, Groq, Cerebras, Claude Code, OpenClaw, pgvector |
 | **Data** | Supabase (PostgreSQL), SQLite, Redis |
 | **Infra** | Docker, Caddy, Cloudflare Tunnel, Tailscale, GitHub Actions |
