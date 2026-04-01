@@ -1,51 +1,60 @@
-# Hi, I'm Diego 👋
+# Diego Perez Garcia
 
-AI Engineer building reliable AI systems in production.
+AI Engineer building production AI systems, developer tools, and AI-powered products.
 
-I work across the full lifecycle of applied AI products: from architecture and LLM integration to deployment, evaluation, and iteration in production. My focus is on building systems that are not only useful, but robust, testable, and scalable.
+I work across the full lifecycle of applied AI: architecture, LLM integration, RAG, agent orchestration, evaluation, and deployment. My focus is on systems that are robust, testable, and deliver real value.
 
-## What I work on
+## What I build
 
-- Production RAG systems with hybrid retrieval, reranking, and structured outputs
-- Agentic workflows and developer tooling
-- LLM evaluations, regression testing, and quality control
-- Full-stack AI applications with Python, TypeScript, FastAPI, React, and Supabase
-- Self-hosted AI infrastructure with Docker, Ollama, PostgreSQL, Redis, and Cloudflare/Tailscale
-
-## Current focus
-
-- Building AI products and internal tooling in production environments
-- Improving reliability for agent-based systems
-- Creating practical workflows around coding agents, knowledge bases, and structured context
-- Designing personal products in finance, automation, and AI-powered productivity
+- **AI-powered products** with LLM reasoning, explainable outputs, and graceful degradation
+- **Agent systems** with voice interaction, tool use, and autonomous development workflows
+- **Production infrastructure** with Docker, self-hosted AI (Ollama), and event-driven pipelines
+- **Full-stack applications** with Python, TypeScript, FastAPI, React, Next.js, and Supabase
 
 ## Selected projects
 
 ### MyInvestIA
-AI investment intelligence dashboard with real-time data, technical indicators, AI analysis, alerts, and streaming architecture.
+AI investment intelligence dashboard with multi-source sentiment analysis, technical indicators, explainable AI reasoning, and real-time market data. Dual-LLM strategy with provider chain failover.
+`FastAPI` `Next.js 15` `Groq` `Cerebras` `Supabase` `Docker`
 
-### AI-Agents
-Collection of modular AI agents for practical workflows such as finance, recruiting, contract review, customer support, and content automation.
+### Jarvis + OpenClaw
+Voice-first AI assistant with local agent orchestration. Spawns Claude Code sessions for hands-free development, integrates with macOS Calendar/Mail/Notes, and features an audio-reactive Three.js visualization.
+`FastAPI` `OpenClaw` `Three.js` `WebSocket` `Claude Code` `AppleScript`
 
-### TFG-SecNet
-Automated network incident detection and response system with IDS/IPS, forensics, alerting, and dashboarding. Final degree project graded 10/10.
+### MyFinancIA
+Self-hosted personal finance app with local AI inference. Natural language transaction classification, financial Q&A with deterministic-first approach, 12-month projections, and scenario modeling.
+`Next.js 16` `Ollama` `Supabase` `Zod` `Docker`
+
+### RentIA
+AI-powered rental property management for the Spanish market. OCR document processing, legal compliance automation (LAU/IRAV), contract generation, and financial intelligence dashboards.
+`FastAPI` `React 19` `Ollama` `Tesseract` `Supabase` `Docker`
+
+### GoalOS
+AI-powered life OS with a pluggable provider chain architecture. Goals, habits, achievements, and analytics with offline-capable AI that degrades gracefully across four provider tiers.
+`React 19` `Zustand` `Ollama` `Framer Motion` `Supabase`
+
+### SecNet
+Automated network incident detection and response system. Suricata IDS/IPS with custom rules, automated IP blocking, and forensic analysis dashboard. Final degree project, graded 10/10.
+`Suricata` `Python` `Flask` `Docker` `iptables`
 
 ## Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL, Bash, Swift  
-**Frontend:** React, Next.js, Svelte, Vite, Zustand, Tailwind CSS  
-**Backend:** FastAPI, Fastify, Express.js, Node.js  
-**AI / LLMs:** Ollama, pgvector, ChromaDB, Claude Code, MCP  
-**Infra:** Docker, nginx, Caddy, Cloudflare Tunnel, Tailscale, GitHub Actions, Azure DevOps
+**Languages:** Python, TypeScript, SQL, Bash
+**Frontend:** React, Next.js, Vite, Zustand, Three.js, Framer Motion
+**Backend:** FastAPI, Fastify, Flask
+**AI / LLMs:** Ollama, Groq, Cerebras, Claude Code, OpenClaw, pgvector
+**Data:** Supabase (PostgreSQL), SQLite, Redis
+**Infra:** Docker, Caddy, Cloudflare Tunnel, Tailscale, GitHub Actions
 
-## What I care about
+## Principles
 
-- Shipping real systems, not toy demos
+- Ship real systems, not toy demos
 - Reliability over hype
-- Fast iteration with strong technical judgment
-- Using AI coding tools as leverage, while keeping full control over architecture, debugging, and quality
+- Local-first AI when privacy matters
+- Graceful degradation over hard dependencies
+- Explainable outputs over black boxes
 
-## Connect with me
+## Connect
 
-- LinkedIn: [linkedin.com/in/diego-perez-garcia](https://www.linkedin.com/in/diego-perez-garcia)
-- GitHub: [github.com/diegoperezg7](https://github.com/diegoperezg7)
+- [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia)
+- [GitHub](https://github.com/diegoperezg7)
