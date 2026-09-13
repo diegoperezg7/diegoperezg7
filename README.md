@@ -17,7 +17,7 @@ I work across the full lifecycle of applied AI — architecture, LLM integration
 
 ## 🚀 My projects
 
-### 🩺 [Veyra](https://github.com/diegoperezg7/Veyra)
+### 💚 [Veyra](https://github.com/diegoperezg7/Veyra)
 Personal health dashboard for iPhone and Apple Watch. Scores sleep, recovery, strain, stress and body battery entirely on-device from Apple Health, with a confidence percentage and its limitations attached to every number. Fitness age is anchored on published VO₂max norms rather than invented. No account, no server, no telemetry.
 
 `Swift 6` `SwiftUI` `HealthKit` `Swift Charts` `SwiftData` `WidgetKit` `watchOS`
