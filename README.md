@@ -1,21 +1,28 @@
 # Hi, I'm Diego 👋
 
-**AI Engineer** building production AI systems, developer tools, and AI-powered products.
+**AI Engineer** building production AI systems, developer tools, and native Apple apps.
 
-I work across the full lifecycle of applied AI: architecture, LLM integration, RAG, agent orchestration, evaluation, and deployment. My focus is on systems that are robust, testable, and deliver real value.
+I work across the full lifecycle of applied AI — architecture, LLM integration, RAG, agent orchestration, evaluation, deployment — and increasingly on native iOS and watchOS, where the interesting problems are signal processing and honest uncertainty rather than model calls. My focus is on systems that are robust, testable, and deliver real value.
 
 ---
 
 ## 🔧 What I build
 
 - **AI-powered products** — LLM reasoning, explainable outputs, graceful degradation
-- **Agent systems** — voice interaction, tool use, autonomous development workflows
+- **Native Apple apps** — SwiftUI, HealthKit, on-device computation, no backend
 - **Production infrastructure** — Docker, self-hosted AI (Ollama), event-driven pipelines
 - **Full-stack applications** — Python, TypeScript, FastAPI, React, Next.js, Supabase
 
 ---
 
 ## 🚀 My projects
+
+### 🩺 [Veyra](https://github.com/diegoperezg7/Veyra)
+Personal health dashboard for iPhone and Apple Watch. Scores sleep, recovery, strain, stress and body battery entirely on-device from Apple Health, with a confidence percentage and its limitations attached to every number. Fitness age is anchored on published VO₂max norms rather than invented. No account, no server, no telemetry.
+
+`Swift 6` `SwiftUI` `HealthKit` `Swift Charts` `SwiftData` `WidgetKit` `watchOS`
+
+---
 
 ### 📊 [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
 AI investment intelligence dashboard with multi-source sentiment analysis, technical indicators, explainable AI reasoning, and real-time market data. Dual-LLM strategy with provider chain failover.
@@ -38,24 +45,10 @@ AI-powered rental property management for the Spanish market. OCR document proce
 
 ---
 
-### 🎙️ [Jarvis + OpenClaw](https://github.com/diegoperezg7/jarvis-openclaw)
-Voice-first AI assistant with local agent orchestration. Spawns Claude Code sessions for hands-free development, integrates with macOS Calendar/Mail/Notes, and features an audio-reactive Three.js visualization.
-
-`FastAPI` `OpenClaw` `Three.js` `WebSocket` `Claude Code` `AppleScript`
-
----
-
 ### 📡 [Server Monitor AI](https://github.com/diegoperezg7/server-monitor-AI)
 Self-hosted real-time server monitoring dashboard with CrowdSec security integration, Docker container tracking, Telegram alerts, IP geolocation attack maps, and automatic service recovery.
 
 `Node.js` `Express` `CrowdSec` `Docker` `Telegram` `Leaflet.js`
-
----
-
-### 🎯 [GoalOS](https://github.com/diegoperezg7/GoalOS)
-AI-powered life OS with a pluggable provider chain architecture. Goals, habits, achievements, and analytics with offline-capable AI that degrades gracefully across four provider tiers.
-
-`React 19` `Zustand` `Ollama` `Framer Motion` `Supabase`
 
 ---
 
@@ -70,10 +63,11 @@ Automated network incident detection and response system. Suricata IDS/IPS with 
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, TypeScript, SQL, Bash |
+| **Languages** | Python, TypeScript, Swift, SQL, Bash |
 | **Frontend** | React, Next.js, Vite, Zustand, Three.js, Framer Motion |
+| **Apple** | SwiftUI, Swift Charts, HealthKit, SwiftData, WidgetKit, XcodeGen |
 | **Backend** | FastAPI, Fastify, Flask, Express |
-| **AI / LLMs** | Ollama, Groq, Cerebras, Claude Code, OpenClaw, pgvector |
+| **AI / LLMs** | Ollama, Groq, Cerebras, Claude Code, pgvector |
 | **Data** | Supabase (PostgreSQL), SQLite, Redis |
 | **Infra** | Docker, Caddy, Cloudflare Tunnel, Tailscale, GitHub Actions |
 
@@ -86,6 +80,7 @@ Automated network incident detection and response system. Suricata IDS/IPS with 
 - Local-first AI when privacy matters
 - Graceful degradation over hard dependencies
 - Explainable outputs over black boxes
+- Missing data shown as missing, never as zero
 
 ---
 
