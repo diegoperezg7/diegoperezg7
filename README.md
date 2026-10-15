@@ -1,90 +1,44 @@
-# Hi, I'm Diego 👋
+# Hi, I'm Diego
 
-**AI Engineer** building production AI systems, developer tools, and native Apple apps.
+**AI Engineer** based in Madrid (EU citizen). I design, build and ship AI-powered products end to end - from requirements and architecture through LLM integration, evaluation and deployment.
 
-I work across the full lifecycle of applied AI — architecture, LLM integration, RAG, agent orchestration, evaluation, deployment — and increasingly on native iOS and watchOS, where the interesting problems are signal processing and honest uncertainty rather than model calls. My focus is on systems that are robust, testable, and deliver real value.
+Currently AI Engineer at a startup, owning client-facing AI applications: full-stack products, multi-agent LLM workflows, RAG / document pipelines and production delivery. Previously cybersecurity support (IndraMind). Higher Technician in Computer Network Systems Management (ASIR).
 
----
-
-## 🔧 What I build
-
-- **AI-powered products** — LLM reasoning, explainable outputs, graceful degradation
-- **Native Apple apps** — SwiftUI, HealthKit, on-device computation, no backend
-- **Production infrastructure** — Docker, self-hosted AI (Ollama), event-driven pipelines
-- **Full-stack applications** — Python, TypeScript, FastAPI, React, Next.js, Supabase
+I care about systems that are reliable, explainable and useful - not demos that only work in a notebook.
 
 ---
 
-## 🚀 My projects
+## Featured projects
 
-### 💚 [Veyra](https://github.com/diegoperezg7/Veyra)
-Personal health dashboard for iPhone and Apple Watch. Scores sleep, recovery, strain, stress and body battery entirely on-device from Apple Health, with a confidence percentage and its limitations attached to every number. Fitness age is anchored on published VO₂max norms rather than invented. No account, no server, no telemetry.
+### [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
+Investment intelligence dashboard: multi-source market data, technical indicators, sentiment and LLM reasoning with provider failover. FastAPI + Next.js + Docker.
 
-`Swift 6` `SwiftUI` `HealthKit` `Swift Charts` `SwiftData` `WidgetKit` `watchOS`
+### [MyFinancIA](https://github.com/diegoperezg7/MyFinancIA)
+Self-hosted personal finance app with local LLM (Ollama): natural-language transactions, Q&A and projections. Deterministic logic first, AI where it helps. Next.js + Supabase.
 
----
+### [Veyra](https://github.com/diegoperezg7/Veyra)
+On-device health dashboard for iPhone and Apple Watch (HealthKit). Scores sleep, recovery and strain with explicit confidence and limitations - no backend, no telemetry. SwiftUI.
 
-### 📊 [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
-AI investment intelligence dashboard with multi-source sentiment analysis, technical indicators, explainable AI reasoning, and real-time market data. Dual-LLM strategy with provider chain failover.
+### Portfolio
+Live site: [diego-perez.vercel.app](https://diego-perez.vercel.app)
 
-`FastAPI` `Next.js 15` `Groq` `Cerebras` `Supabase` `Docker`
-
----
-
-### 💰 [MyFinancIA](https://github.com/diegoperezg7/MyFinancIA)
-Self-hosted personal finance app with local AI inference. Natural language transaction classification, financial Q&A with deterministic-first approach, 12-month projections, and scenario modeling.
-
-`Next.js 16` `Ollama` `Supabase` `Zod` `Docker`
+Private / in beta (happy to walk through): FinancIA (iOS personal-finance app with AI powered by Grok), RentIA (AI rental management for Spain).
 
 ---
 
-### 🏠 [RentIA](https://github.com/diegoperezg7/RentIA)
-AI-powered rental property management for the Spanish market. OCR document processing, legal compliance automation (LAU/IRAV), contract generation, and financial intelligence dashboards.
+## Stack
 
-`FastAPI` `React 19` `Ollama` `Tesseract` `Supabase` `Docker`
-
----
-
-### 📡 [Server Monitor AI](https://github.com/diegoperezg7/server-monitor-AI)
-Self-hosted real-time server monitoring dashboard with CrowdSec security integration, Docker container tracking, Telegram alerts, IP geolocation attack maps, and automatic service recovery.
-
-`Node.js` `Express` `CrowdSec` `Docker` `Telegram` `Leaflet.js`
-
----
-
-### 🛡️ [SecNet](https://github.com/diegoperezg7/TFG-SecNet)
-Automated network incident detection and response system. Suricata IDS/IPS with custom rules, automated IP blocking, and forensic analysis dashboard. Final degree project, graded 10/10.
-
-`Suricata` `Python` `Flask` `Docker` `iptables`
-
----
-
-## 🛠️ Stack
-
-| Category | Technologies |
+| | |
 |---|---|
 | **Languages** | Python, TypeScript, Swift, SQL, Bash |
-| **Frontend** | React, Next.js, Vite, Zustand, Three.js, Framer Motion |
-| **Apple** | SwiftUI, Swift Charts, HealthKit, SwiftData, WidgetKit, XcodeGen |
-| **Backend** | FastAPI, Fastify, Flask, Express |
-| **AI / LLMs** | Ollama, Groq, Cerebras, Claude Code, pgvector |
-| **Data** | Supabase (PostgreSQL), SQLite, Redis |
-| **Infra** | Docker, Caddy, Cloudflare Tunnel, Tailscale, GitHub Actions |
+| **AI / LLM** | LangChain / LangGraph, MCP, Ollama, Grok / xAI API, RAG, multi-agent workflows, LLM evaluation |
+| **Full-stack** | React, Next.js, FastAPI, Supabase / PostgreSQL, Docker |
+| **Ops** | CI/CD (GitHub Actions, Azure DevOps), Caddy, Cloudflare Tunnel, Tailscale |
 
 ---
 
-## 💡 Principles
+## Open to
 
-- Ship real systems, not toy demos
-- Reliability over hype
-- Local-first AI when privacy matters
-- Graceful degradation over hard dependencies
-- Explainable outputs over black boxes
-- Missing data shown as missing, never as zero
+AI Engineer / LLM / Forward-deployed roles - especially product-building teams in Europe (including Switzerland). English C1 · Spanish native · French basic (learning) · EU work authorization (no sponsorship needed).
 
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-perez-garcia)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/diegoperezg7)
+[LinkedIn](https://www.linkedin.com/in/diego-perez-garcia) · diegoperezgarc@gmail.com
