@@ -1,6 +1,6 @@
 # Hi, I'm Diego
 
-**AI Engineer** based in Madrid (EU citizen). I design, build and ship AI-powered products end to end - from requirements and architecture through LLM integration, evaluation and deployment.
+**AI Engineer** based in Madrid. I design, build and ship AI-powered products end to end - from requirements and architecture through LLM integration, evaluation and deployment.
 
 Currently AI Engineer at a startup, owning client-facing AI applications: full-stack products, multi-agent LLM workflows, RAG / document pipelines and production delivery. Previously cybersecurity support (IndraMind). Higher Technician in Computer Network Systems Management (ASIR).
 
@@ -19,9 +19,6 @@ Self-hosted personal finance app with local LLM (Ollama): natural-language trans
 ### [Veyra](https://github.com/diegoperezg7/Veyra)
 On-device health dashboard for iPhone and Apple Watch (HealthKit). Scores sleep, recovery and strain with explicit confidence and limitations - no backend, no telemetry. SwiftUI.
 
-### Portfolio
-Live site: [diego-perez.vercel.app](https://diego-perez.vercel.app)
-
 Private / in beta (happy to walk through): FinancIA (iOS personal-finance app with AI powered by Grok), RentIA (AI rental management for Spain).
 
 ---
@@ -39,6 +36,6 @@ Private / in beta (happy to walk through): FinancIA (iOS personal-finance app wi
 
 ## Open to
 
-AI Engineer / LLM / Forward-deployed roles - especially product-building teams in Europe (including Switzerland). English C1 · Spanish native · French basic (learning) · EU work authorization (no sponsorship needed).
+AI Engineer / LLM / Forward-deployed roles - especially product-building teams in Europe (including Switzerland). English C1 · Spanish native · French basic (learning).
 
 [LinkedIn](https://www.linkedin.com/in/diego-perez-garcia) · diegoperezgarc@gmail.com
