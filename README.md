@@ -16,6 +16,9 @@ Investment intelligence dashboard: multi-source market data, technical indicator
 ### [MyFinancIA](https://github.com/diegoperezg7/MyFinancIA)
 Self-hosted personal finance app with local LLM (Ollama): natural-language transactions, Q&A and projections. Deterministic logic first, AI where it helps. Next.js + Supabase.
 
+### [AI-Learn](https://github.com/diegoperezg7/ai-learn)
+Self-hosted learning OS for my AI engineering roadmap: scoped daily sessions, skill levels that only rise with real evidence, spaced-repetition interview prep and a local LLM coach (Ollama) that reviews my work but never writes the solution. FastAPI + React + Docker, deployed behind SSO on my home server.
+
 ### [Veyra](https://github.com/diegoperezg7/Veyra)
 On-device health dashboard for iPhone and Apple Watch (HealthKit). Scores sleep, recovery and strain with explicit confidence and limitations - no backend, no telemetry. SwiftUI.
 
