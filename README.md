@@ -22,7 +22,7 @@ Self-hosted learning OS for my AI engineering roadmap: scoped daily sessions, sk
 ### [Veyra](https://github.com/diegoperezg7/Veyra)
 On-device health dashboard for iPhone and Apple Watch (HealthKit). Scores sleep, recovery and strain with explicit confidence and limitations - no backend, no telemetry. SwiftUI.
 
-Private / in beta (happy to walk through): FinancIA (iOS personal-finance app with AI powered by Grok), RentIA (AI rental management for Spain).
+Private / in beta (happy to walk through): FinancIA (iOS personal-finance app with an LLM assistant), RentIA (AI rental management for Spain).
 
 ---
 
@@ -31,7 +31,7 @@ Private / in beta (happy to walk through): FinancIA (iOS personal-finance app wi
 | | |
 |---|---|
 | **Languages** | Python, TypeScript, Swift, SQL, Bash |
-| **AI / LLM** | LangChain / LangGraph, MCP, Ollama, Grok / xAI API, RAG, multi-agent workflows, LLM evaluation |
+| **AI / LLM** | LangChain / LangGraph, MCP, Ollama, RAG, multi-agent workflows, LLM evaluation |
 | **Full-stack** | React, Next.js, FastAPI, Supabase / PostgreSQL, Docker |
 | **Ops** | CI/CD (GitHub Actions, Azure DevOps), Caddy, Cloudflare Tunnel, Tailscale |
 
