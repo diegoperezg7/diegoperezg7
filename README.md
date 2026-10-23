@@ -54,11 +54,11 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 
 <a href="https://github.com/diegoperezg7/ragcompass"><img src="https://raw.githubusercontent.com/diegoperezg7/ragcompass/main/docs/assets/web-report-light.png" alt="ragcompass report"></a>
 
-Point it at a document or a folder and get a **reasoned RAG configuration**: parser per format (OCR and vision for scans), chunking measured on your own files, vectors, index size, cost, top-k and hybrid search. CLI, API and web app.
+Point it at a document or a folder and get a **reasoned, benchmarked RAG configuration**: parser per format (OCR and vision for scans), chunking measured on your own files, a retrieval benchmark (BM25, dense, hybrid) with confidence intervals, top-k, index size and cost, plus ready-to-paste LangChain, LlamaIndex and Haystack code. CLI, web app, API and MCP server.
 
 > **Why:** "how should I configure this RAG?" is usually answered by guesswork.
 
-`Python` `FastAPI` `React` `RAG` `Embeddings`
+`Python` `FastAPI` `React` `RAG` `MCP` `Embeddings`
 
 </td>
 </tr>
