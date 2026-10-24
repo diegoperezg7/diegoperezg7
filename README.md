@@ -22,10 +22,11 @@ I'm an **AI Engineer** who designs, builds and ships AI-powered products end to 
 ## 🚀 Featured projects
 
 ### 🏠 [RentIA](https://github.com/diegoperezg7/rentia-case-study) &nbsp;![In production](https://img.shields.io/badge/status-in%20production-16a34a)
+**Rental management for Spanish landlords, running in production with real users.**
 
 <a href="https://github.com/diegoperezg7/rentia-case-study"><img src="https://raw.githubusercontent.com/diegoperezg7/rentia-case-study/main/docs/screenshots/dashboard.png" alt="RentIA dashboard" width="100%"></a>
 
-Rental management for Spanish landlords: LAU contracts, IPC/IRAV rent updates, receipts, expenses, IRPF (Modelo 100) and document OCR, with AI on local models. Self-hosted with CI/CD and used every month by real landlords.
+LAU contracts, IPC/IRAV rent updates, receipts, passed-on bills, expenses, IRPF (Modelo 100) and document OCR, with AI on local models. Self-hosted with CI/CD and used every month.
 
 > **Why I built it:** the paperwork around a few rental properties is tedious and error-prone, and existing tools are either generic or send your documents to someone else's cloud. *Code is private; the case study covers product, architecture and decisions.*
 
@@ -38,6 +39,7 @@ Rental management for Spanish landlords: LAU contracts, IPC/IRAV rent updates, r
 <td width="50%" valign="top">
 
 ### ✅ [Signoff](https://github.com/diegoperezg7/signoff)
+**Prove what was agreed, built, verified and accepted, with governed AI agents.**
 
 <a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/images/11-agents.png" alt="Signoff agents panel"></a>
 
@@ -51,10 +53,11 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 <td width="50%" valign="top">
 
 ### 🧭 [ragcompass](https://github.com/diegoperezg7/ragcompass)
+**Point it at your documents and get a benchmarked RAG configuration.**
 
 <a href="https://github.com/diegoperezg7/ragcompass"><img src="https://raw.githubusercontent.com/diegoperezg7/ragcompass/main/docs/assets/web-report-light.png" alt="ragcompass report"></a>
 
-Point it at a document or a folder and get a **reasoned, benchmarked RAG configuration**: parser per format (OCR and vision for scans), chunking measured on your own files, a retrieval benchmark (BM25, dense, hybrid) with confidence intervals, top-k, index size and cost, plus ready-to-paste LangChain, LlamaIndex and Haystack code. CLI, web app, API and MCP server.
+Every recommendation comes with its reason and its evidence: parser per format (OCR and vision for scans), chunking measured on your own files, a retrieval benchmark (BM25, dense, hybrid) with confidence intervals, top-k, index size and cost, plus ready-to-paste LangChain, LlamaIndex and Haystack code. CLI, web app, API and MCP server.
 
 > **Why:** "how should I configure this RAG?" is usually answered by guesswork.
 
@@ -66,10 +69,11 @@ Point it at a document or a folder and get a **reasoned, benchmarked RAG configu
 <td width="50%" valign="top">
 
 ### 🧪 [evalsmith-mcp](https://github.com/diegoperezg7/evalsmith-mcp)
+**Evaluate RAG, agent tool calls and prompt changes, and fail CI when quality drops.**
 
 <a href="https://github.com/diegoperezg7/evalsmith-mcp"><img src="https://raw.githubusercontent.com/diegoperezg7/evalsmith-mcp/main/docs/assets/cli.png" alt="evalsmith CLI run"></a>
 
-**MCP server and CLI** that evaluate RAG retrieval (recall@k, MRR, nDCG), agent tool calls and prompt regressions, and **fail CI** when quality drops. No paid keys.
+**MCP server and CLI** with deterministic metrics: recall@k, MRR and nDCG for retrieval, strict or lax tool-call matching for agents, and golden-set checks for prompts. JUnit and SARIF-friendly reports, no paid keys.
 
 > **Why:** ragcompass recommends a configuration; evalsmith proves whether it holds up.
 
@@ -79,10 +83,11 @@ Point it at a document or a folder and get a **reasoned, benchmarked RAG configu
 <td width="50%" valign="top">
 
 ### 📚 [AI-Learn](https://github.com/diegoperezg7/ai-learn)
+**The system I use to run my own AI engineering roadmap.**
 
 <a href="https://github.com/diegoperezg7/ai-learn"><img src="https://raw.githubusercontent.com/diegoperezg7/ai-learn/main/docs/dashboard-dark.png" alt="AI-Learn dashboard"></a>
 
-The system I use to run my own AI engineering roadmap: scoped daily sessions, skill levels that only rise with evidence, spaced-repetition interview prep and a **local LLM coach** that reviews my work but never writes the solution.
+Scoped daily sessions, skill levels that only rise with evidence, spaced-repetition interview prep and a **local LLM coach** that reviews my work but never writes the solution.
 
 > **Why:** progress is easy to fake; this one only counts evidence.
 
@@ -94,10 +99,11 @@ The system I use to run my own AI engineering roadmap: scoped daily sessions, sk
 <td width="50%" valign="top">
 
 ### 🖥️ [server-monitor-AI](https://github.com/diegoperezg7/server-monitor-AI)
+**Home-server dashboard with a security digest written by a local LLM.**
 
 <a href="https://github.com/diegoperezg7/server-monitor-AI"><img src="https://raw.githubusercontent.com/diegoperezg7/server-monitor-AI/main/docs/screenshots/attack-map.png" alt="server-monitor attack map"></a>
 
-Dashboard for the home server where all of this runs: Netdata, Docker, CrowdSec with an attack map, Telegram alerts, auto-recovery and a **daily security digest written by a local LLM** that can only cite real events.
+Runs on the same home server as everything else: Netdata, Docker, CrowdSec with an attack map, Telegram alerts, auto-recovery and a **daily security digest written by a local LLM** that can only cite real events.
 
 `Node.js` `CrowdSec` `Docker` `Ollama`
 
@@ -105,10 +111,11 @@ Dashboard for the home server where all of this runs: Netdata, Docker, CrowdSec 
 <td width="50%" valign="top">
 
 ### 📈 [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
+**Investment dashboard: deterministic signals, LLM-written explanations.**
 
 <a href="https://github.com/diegoperezg7/MyInvestIA"><img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/docs/screenshots/home.png" alt="MyInvestIA home"></a>
 
-Investment intelligence dashboard: multi-provider market data, quant scoring, sentiment and macro context, with **LLM-written explanations** on top of deterministic signals.
+Multi-provider market data, quant scoring, sentiment and macro context, with **LLM-written explanations** on top of deterministic signals.
 
 `FastAPI` `Next.js` `Quant` `LLM`
 
@@ -117,6 +124,7 @@ Investment intelligence dashboard: multi-provider market data, quant scoring, se
 </table>
 
 ### ⌚ [Veyra](https://github.com/diegoperezg7/Veyra)
+**Health dashboard for iPhone and Apple Watch, computed on the device.**
 
 <p>
   <a href="https://github.com/diegoperezg7/Veyra"><img src="https://raw.githubusercontent.com/diegoperezg7/Veyra/main/Documentation/Screenshots/01-home.png" alt="Veyra home" width="24%"></a>
@@ -125,7 +133,7 @@ Investment intelligence dashboard: multi-provider market data, quant scoring, se
   <a href="https://github.com/diegoperezg7/Veyra"><img src="https://raw.githubusercontent.com/diegoperezg7/Veyra/main/Documentation/Screenshots/02-battery.png" alt="Veyra energy" width="24%"></a>
 </p>
 
-On-device health dashboard for iPhone and Apple Watch: sleep, recovery, strain and stress computed locally from HealthKit, with **confidence on every score**. No backend, no telemetry.
+Sleep, recovery, strain and stress from HealthKit, with **confidence on every score**. No backend, no telemetry.
 
 `Swift` `SwiftUI` `HealthKit` `WidgetKit` `watchOS`
 

@@ -8,23 +8,33 @@
       <stop offset="0" stop-color="#8b7cf6"/>
       <stop offset="1" stop-color="#22d3ee"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#8b7cf6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8b7cf6" stop-opacity="0"/>
+    </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
   </defs>
   <rect width="1280" height="300" rx="20" fill="url(#bg)"/>
   <rect width="1280" height="300" rx="20" fill="url(#grid)"/>
-  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.55">
-    <circle cx="1080" cy="150" r="54"/>
-    <circle cx="980" cy="86" r="10"/>
-    <circle cx="1180" cy="78" r="12"/>
-    <circle cx="1170" cy="226" r="9"/>
-    <circle cx="975" cy="222" r="12"/>
-    <path d="M1032 124L988 92M1126 122L1170 86M1124 182L1163 220M1034 178L985 214"/>
-  </g>
-  <circle cx="1080" cy="150" r="18" fill="url(#accent)"/>
+  <rect width="1280" height="300" rx="20" fill="url(#glow)"/>
+
   <text x="72" y="128" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Diego Pérez</text>
   <rect x="72" y="150" width="96" height="4" rx="2" fill="url(#accent)"/>
   <text x="72" y="196" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#c7c3ff">AI Engineer</text>
-  <text x="72" y="236" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#a1a1b5">RAG · AI agents · LLM evaluation · full-stack products in production</text>
+  <text x="72" y="236" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#a1a1b5">I build AI products that real people use, and I measure them.</text>
+
+  <g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#e4e1ff">
+    <rect x="896" y="78" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#8b7cf6" stroke-opacity="0.55"/>
+    <text x="970" y="104" text-anchor="middle">RAG</text>
+    <rect x="1056" y="78" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#8b7cf6" stroke-opacity="0.55"/>
+    <text x="1130" y="104" text-anchor="middle">AI agents</text>
+    <rect x="896" y="130" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
+    <text x="970" y="156" text-anchor="middle">Evaluation</text>
+    <rect x="1056" y="130" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
+    <text x="1130" y="156" text-anchor="middle">MCP</text>
+    <rect x="896" y="182" width="308" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="1050" y="208" text-anchor="middle">Shipped to production</text>
+  </g>
 </svg>
