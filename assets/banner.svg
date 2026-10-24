@@ -27,13 +27,13 @@
 
   <g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#e4e1ff">
     <rect x="896" y="78" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#8b7cf6" stroke-opacity="0.55"/>
-    <text x="970" y="104" text-anchor="middle">RAG</text>
+    <text x="970" y="104" text-anchor="middle">AI agents</text>
     <rect x="1056" y="78" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#8b7cf6" stroke-opacity="0.55"/>
-    <text x="1130" y="104" text-anchor="middle">AI agents</text>
-    <rect x="896" y="130" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
-    <text x="970" y="156" text-anchor="middle">Evaluation</text>
-    <rect x="1056" y="130" width="148" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
-    <text x="1130" y="156" text-anchor="middle">MCP</text>
+    <text x="1130" y="104" text-anchor="middle">LLM apps</text>
+    <rect x="896" y="130" width="200" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
+    <text x="996" y="156" text-anchor="middle">Evals &amp; guardrails</text>
+    <rect x="1108" y="130" width="96" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.55"/>
+    <text x="1156" y="156" text-anchor="middle">MCP</text>
     <rect x="896" y="182" width="308" height="40" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.25"/>
     <text x="1050" y="208" text-anchor="middle">Shipped to production</text>
   </g>

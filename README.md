@@ -13,7 +13,7 @@
 
 I'm an **AI Engineer** who designs, builds and ships AI-powered products end to end: requirements, architecture, LLM integration, evaluation and deployment.
 
-- 💼 **Now:** AI Engineer at BeAI Now, owning client-facing AI applications: full-stack products, multi-agent LLM workflows, RAG and document pipelines, production delivery.
+- 💼 **Now:** AI Engineer at BeAI Now, owning client-facing AI applications: full-stack products, multi-agent LLM workflows, document AI and production delivery.
 - 🛡️ **Before:** cybersecurity support (IndraMind). Higher Technician in Computer Network Systems Management (ASIR).
 - 🧭 **How I build:** AI where it measurably helps, deterministic logic everywhere else, and real users as the bar. Not demos that only work in a notebook.
 
@@ -69,7 +69,7 @@ Every recommendation comes with its reason and its evidence: parser per format (
 <td width="50%" valign="top">
 
 ### 🧪 [evalsmith-mcp](https://github.com/diegoperezg7/evalsmith-mcp)
-**Evaluate RAG, agent tool calls and prompt changes, and fail CI when quality drops.**
+**Evaluate agent tool calls, prompt changes and retrieval, and fail CI when quality drops.**
 
 <a href="https://github.com/diegoperezg7/evalsmith-mcp"><img src="https://raw.githubusercontent.com/diegoperezg7/evalsmith-mcp/main/docs/assets/cli.png" alt="evalsmith CLI run"></a>
 
@@ -147,7 +147,7 @@ Sleep, recovery, strain and stress from HealthKit, with **confidence on every sc
 
 | | |
 |---|---|
-| 🤖 **AI / LLM** | RAG, retrieval evaluation, MCP, multi-agent workflows, LangChain / LangGraph, Ollama and local models, OCR pipelines |
+| 🤖 **AI engineering** | AI agents (tool use, multi-agent orchestration, human-in-the-loop approvals), LLM application architecture, evals and guardrails, MCP, LangChain / LangGraph, RAG and document AI (OCR, vision), local models with Ollama |
 | 🧱 **Full-stack** | React, Next.js, FastAPI, Supabase / PostgreSQL, Docker |
 | ⚙️ **Ops** | CI/CD (GitHub Actions, Azure DevOps), self-hosted runners, Caddy, Cloudflare Tunnel, Tailscale |
 | 🗣️ **Languages** | Spanish (native) · English (C1) · French (learning) |
