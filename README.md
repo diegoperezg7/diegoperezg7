@@ -21,7 +21,7 @@ I'm an **AI Engineer** who designs, builds and ships AI-powered products end to 
 
 ## 🚀 Featured projects
 
-### 🏠 [RentIA](https://github.com/diegoperezg7/rentia-case-study) &nbsp;![In production](https://img.shields.io/badge/status-in%20production-16a34a)
+### <a href="https://github.com/diegoperezg7/rentia-case-study"><img src="https://raw.githubusercontent.com/diegoperezg7/rentia-case-study/main/assets/logo-light.png" height="40" alt="RentIA"></a> &nbsp;![In production](https://img.shields.io/badge/status-in%20production-16a34a)
 **Rental management for Spanish landlords, running in production with real users.**
 
 <a href="https://github.com/diegoperezg7/rentia-case-study"><img src="https://raw.githubusercontent.com/diegoperezg7/rentia-case-study/main/docs/screenshots/dashboard.png" alt="RentIA dashboard" width="100%"></a>
@@ -34,7 +34,7 @@ LAU contracts, IPC/IRAV rent updates, receipts, passed-on bills, expenses, IRPF 
 
 <br>
 
-### 🧭 [ragcompass](https://github.com/diegoperezg7/ragcompass)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/ragcompass/main/docs/assets/logo.svg" height="28" align="top" alt=""> [ragcompass](https://github.com/diegoperezg7/ragcompass)
 **Point it at your documents and get a benchmarked RAG configuration.**
 
 <a href="https://github.com/diegoperezg7/ragcompass"><img src="https://raw.githubusercontent.com/diegoperezg7/ragcompass/main/docs/assets/web-report-light.png" alt="ragcompass report" width="100%"></a>
@@ -57,7 +57,7 @@ Every recommendation comes with its reason and its evidence: parser per format (
 <tr>
 <td width="50%" valign="top">
 
-### ✅ [Signoff](https://github.com/diegoperezg7/signoff)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/apps/web/app/icon.svg" height="28" align="top" alt=""> [Signoff](https://github.com/diegoperezg7/signoff)
 **Prove what was agreed, built, verified and accepted, with governed AI agents.**
 
 <a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/images/11-agents.png" alt="Signoff agents panel"></a>
@@ -71,7 +71,7 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [mcp-guard](https://github.com/diegoperezg7/mcp-guard)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/mcp-guard/main/docs/assets/logo.svg" height="28" align="top" alt=""> [mcp-guard](https://github.com/diegoperezg7/mcp-guard)
 **Security scanner for MCP servers and AI agents, built for CI.**
 
 <a href="https://github.com/diegoperezg7/mcp-guard"><img src="https://raw.githubusercontent.com/diegoperezg7/mcp-guard/main/docs/assets/report.png" alt="mcp-guard report"></a>
@@ -87,7 +87,7 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 [evalsmith-mcp](https://github.com/diegoperezg7/evalsmith-mcp)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/evalsmith-mcp/main/docs/assets/logo.svg" height="28" align="top" alt=""> [evalsmith-mcp](https://github.com/diegoperezg7/evalsmith-mcp)
 **Evaluate agent tool calls, prompt changes and retrieval, and fail CI when quality drops.**
 
 <a href="https://github.com/diegoperezg7/evalsmith-mcp"><img src="https://raw.githubusercontent.com/diegoperezg7/evalsmith-mcp/main/docs/assets/cli.png" alt="evalsmith CLI run"></a>
@@ -101,7 +101,7 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 </td>
 <td width="50%" valign="top">
 
-### 📚 [AI-Learn](https://github.com/diegoperezg7/ai-learn)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/ai-learn/main/frontend/public/assets/ai-learn-mark-light.png" height="28" align="top" alt=""> [AI-Learn](https://github.com/diegoperezg7/ai-learn)
 **The system I use to run my own AI engineering roadmap.**
 
 <a href="https://github.com/diegoperezg7/ai-learn"><img src="https://raw.githubusercontent.com/diegoperezg7/ai-learn/main/docs/dashboard-dark.png" alt="AI-Learn dashboard"></a>
@@ -117,7 +117,7 @@ Scoped daily sessions, skill levels that only rise with evidence, spaced-repetit
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [server-monitor-AI](https://github.com/diegoperezg7/server-monitor-AI)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/server-monitor-AI/main/public/icon-192.png" height="28" align="top" alt=""> [server-monitor-AI](https://github.com/diegoperezg7/server-monitor-AI)
 **Home-server dashboard with a security digest written by a local LLM.**
 
 <a href="https://github.com/diegoperezg7/server-monitor-AI"><img src="https://raw.githubusercontent.com/diegoperezg7/server-monitor-AI/main/docs/screenshots/attack-map.png" alt="server-monitor attack map"></a>
@@ -129,7 +129,7 @@ Runs on the same home server as everything else: Netdata, Docker, CrowdSec with 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
+### <img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/frontend/src/app/icon.svg" height="28" align="top" alt=""> [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
 **Investment dashboard: deterministic signals, LLM-written explanations.**
 
 <a href="https://github.com/diegoperezg7/MyInvestIA"><img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/docs/screenshots/home.png" alt="MyInvestIA home"></a>
