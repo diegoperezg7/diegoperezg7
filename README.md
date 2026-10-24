@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Diego Pérez, AI Engineer" width="100%">
+  <img src="assets/banner-v2.svg" alt="Diego Pérez, AI Engineer" width="100%">
 </p>
 
 <p align="center">
