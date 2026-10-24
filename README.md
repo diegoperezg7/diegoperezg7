@@ -71,6 +71,22 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 </td>
 <td width="50%" valign="top">
 
+### 🛡️ [mcp-guard](https://github.com/diegoperezg7/mcp-guard)
+**Security scanner for MCP servers and AI agents, built for CI.**
+
+<a href="https://github.com/diegoperezg7/mcp-guard"><img src="https://raw.githubusercontent.com/diegoperezg7/mcp-guard/main/docs/assets/report.png" alt="mcp-guard report"></a>
+
+24 rules for tool poisoning (hidden instructions, invisible Unicode, homoglyphs), tool shadowing, excessive permissions, leaked secrets and unsafe transports, plus an opt-in probe for indirect prompt injection. SARIF output for GitHub code scanning and a `--fail-on` gate. Hardened against hostile servers.
+
+> **Why:** agents are only as safe as the tools they are given, and MCP makes those tools easy to add.
+
+`TypeScript` `MCP` `AppSec` `SARIF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧪 [evalsmith-mcp](https://github.com/diegoperezg7/evalsmith-mcp)
 **Evaluate agent tool calls, prompt changes and retrieval, and fail CI when quality drops.**
 
@@ -83,8 +99,6 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 `TypeScript` `MCP` `Evaluation` `CI`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 [AI-Learn](https://github.com/diegoperezg7/ai-learn)
@@ -99,6 +113,8 @@ Scoped daily sessions, skill levels that only rise with evidence, spaced-repetit
 `FastAPI` `React` `Ollama` `SSO`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🖥️ [server-monitor-AI](https://github.com/diegoperezg7/server-monitor-AI)
@@ -111,14 +127,12 @@ Runs on the same home server as everything else: Netdata, Docker, CrowdSec with 
 `Node.js` `CrowdSec` `Docker` `Ollama`
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 📈 [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
 **Investment dashboard: deterministic signals, LLM-written explanations.**
 
-<a href="https://github.com/diegoperezg7/MyInvestIA"><img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/docs/screenshots/home.png" alt="MyInvestIA home" width="100%"></a>
+<a href="https://github.com/diegoperezg7/MyInvestIA"><img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/docs/screenshots/home.png" alt="MyInvestIA home"></a>
 
 Multi-provider market data, quant scoring, sentiment and macro context, with **LLM-written explanations** on top of deterministic signals.
 
