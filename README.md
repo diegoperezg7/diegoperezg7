@@ -57,20 +57,6 @@ Every recommendation comes with its reason and its evidence: parser per format (
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/apps/web/app/icon.svg" height="28" align="top" alt=""> [Signoff](https://github.com/diegoperezg7/signoff)
-**Prove what was agreed, built, verified and accepted, with governed AI agents.**
-
-<a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/images/11-agents.png" alt="Signoff agents panel"></a>
-
-Software delivery assurance: from the client agreement to a signed-off acceptance, with requirements, change control, verification and evidence. **8 governed AI agents** with finite plans, allow-listed tools, resumable runs and human approval for every write.
-
-> **Why:** most delivery disputes come from scope nobody can prove.
-
-`FastAPI` `Next.js` `PostgreSQL` `Redis` `Agents`
-
-</td>
-<td width="50%" valign="top">
-
 ### <img src="https://raw.githubusercontent.com/diegoperezg7/mcp-guard/main/docs/assets/logo.svg" height="28" align="top" alt=""> [mcp-guard](https://github.com/diegoperezg7/mcp-guard)
 **Security scanner for MCP servers and AI agents, built for CI.**
 
@@ -83,8 +69,6 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 `TypeScript` `MCP` `AppSec` `SARIF`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/diegoperezg7/evalsmith-mcp/main/docs/assets/logo.svg" height="28" align="top" alt=""> [evalsmith-mcp](https://github.com/diegoperezg7/evalsmith-mcp)
@@ -97,6 +81,52 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 > **Why:** ragcompass recommends a configuration; evalsmith proves whether it holds up.
 
 `TypeScript` `MCP` `Evaluation` `CI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/diegoperezg7/lora-vs-prompt/main/docs/assets/icon.svg" height="28" align="top" alt=""> [lora-vs-prompt](https://github.com/diegoperezg7/lora-vs-prompt)
+**When is fine-tuning worth it? A LoRA on a small model vs prompting, measured.**
+
+<a href="https://github.com/diegoperezg7/lora-vs-prompt"><img src="https://raw.githubusercontent.com/diegoperezg7/lora-vs-prompt/main/docs/figures/quality-vs-latency-light.png" alt="Exact match vs latency"></a>
+
+Fully local study on Spanish rental-expense documents: a 1.5B model with LoRA doubles its own prompted accuracy (54.7% vs 26.7%), matches a model twice its size at 4x lower latency, and wins category classification by 19 to 35 points. Unseen layouts, a hard split with heavy OCR, paired bootstrap intervals, and an honest look at template memorisation.
+
+> **Why:** "should we fine-tune?" deserves numbers, not opinions.
+
+`Python` `MLX` `LoRA` `Qwen2.5` `Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/diegoperezg7/docbench"><img src="https://raw.githubusercontent.com/diegoperezg7/docbench/main/docs/assets/logo-light.svg" height="34" alt="docbench"></a>
+**Open benchmark for document extraction in Spanish and English: OCR + LLM vs vision models.**
+
+<a href="https://github.com/diegoperezg7/docbench"><img src="https://raw.githubusercontent.com/diegoperezg7/docbench/main/docs/assets/samples-degradations.png" alt="Synthetic documents and degradations"></a>
+
+Synthetic, reproducible ES/EN dataset of invoices, utility bills, leases, rent receipts, store receipts and clearly fictitious IDs, from clean PDFs to bad scans and phone photos. Field-level accuracy, latency and memory for local pipelines: a vision model leads at 84.1% (91.1% in English), ahead of Tesseract + LLM (64.6%) and rule baselines, and text LLMs are shown to invent values on bad scans.
+
+> **Why:** document AI is where most business automation starts, and it is rarely measured.
+
+`Python` `OCR` `Vision LLM` `MLX` `Benchmark` `ES/EN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/apps/web/app/icon.svg" height="28" align="top" alt=""> [Signoff](https://github.com/diegoperezg7/signoff)
+**Prove what was agreed, built, verified and accepted, with governed AI agents.**
+
+<a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/images/11-agents.png" alt="Signoff agents panel"></a>
+
+Software delivery assurance: from the client agreement to a signed-off acceptance, with requirements, change control, verification and evidence. **8 governed AI agents** with finite plans, allow-listed tools, resumable runs and human approval for every write.
+
+> **Why:** most delivery disputes come from scope nobody can prove.
+
+`FastAPI` `Next.js` `PostgreSQL` `Redis` `Agents`
 
 </td>
 <td width="50%" valign="top">
