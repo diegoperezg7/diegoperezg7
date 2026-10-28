@@ -62,11 +62,11 @@ Every recommendation comes with its reason and its evidence: parser per format (
 
 <a href="https://github.com/diegoperezg7/mcp-guard"><img src="https://raw.githubusercontent.com/diegoperezg7/mcp-guard/main/docs/assets/report.png" alt="mcp-guard report"></a>
 
-24 rules for tool poisoning (hidden instructions, invisible Unicode, homoglyphs), tool shadowing, excessive permissions, leaked secrets and unsafe transports, plus an opt-in probe for indirect prompt injection. SARIF output for GitHub code scanning and a `--fail-on` gate. Hardened against hostile servers.
+24 rules for tool poisoning (hidden instructions, invisible Unicode, homoglyphs), tool shadowing, excessive permissions, leaked secrets and unsafe transports, plus an opt-in probe for indirect prompt injection. SARIF output for GitHub code scanning and a `--fail-on` gate, hardened against hostile servers. Published on the [GitHub Marketplace](https://github.com/marketplace/actions/mcp-guard-mcp-security-scan): `uses: diegoperezg7/mcp-guard@v1`.
 
 > **Why:** agents are only as safe as the tools they are given, and MCP makes those tools easy to add.
 
-`TypeScript` `MCP` `AppSec` `SARIF`
+`TypeScript` `MCP` `AppSec` `SARIF` `GitHub Action`
 
 </td>
 <td width="50%" valign="top">
