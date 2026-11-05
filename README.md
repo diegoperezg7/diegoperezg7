@@ -189,6 +189,5 @@ Multi-provider market data, quant scoring, sentiment and macro context, with **L
 ---
 
 <p align="center">
-  <b>🎯 Open to AI Engineer, LLM and forward-deployed roles</b>, especially product-building teams in Europe, including Switzerland.<br>
   <a href="https://www.linkedin.com/in/diego-perez-garcia">LinkedIn</a> · <a href="mailto:diegoperezgarc@gmail.com">diegoperezgarc@gmail.com</a>
 </p>
