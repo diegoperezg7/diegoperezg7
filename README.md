@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/diego-perez-garcia"><img src="https://img.shields.io/badge/LinkedIn-diego--perez--garcia-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:diegoperezgarc@gmail.com"><img src="https://img.shields.io/badge/Email-diegoperezgarc%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based%20in-Madrid-555?logo=googlemaps&logoColor=white" alt="Madrid">
-  <img src="https://img.shields.io/badge/Open%20to-Europe%20%26%20Switzerland-2ea44f" alt="Open to Europe and Switzerland">
 </p>
 
 ## 👋 About me
