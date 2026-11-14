@@ -52,6 +52,19 @@ Every recommendation comes with its reason and its evidence: parser per format (
 
 <br>
 
+### <img src="https://raw.githubusercontent.com/diegoperezg7/ramify/main/docs/logo.png" height="28" align="top" alt=""> [Ramify](https://github.com/diegoperezg7/ramify)
+**See and control every AI coding agent on your machine, each on its own branch.**
+
+<a href="https://github.com/diegoperezg7/ramify"><img src="https://raw.githubusercontent.com/diegoperezg7/ramify/main/docs/screenshots/app-control-light.png" alt="Ramify control center" width="100%"></a>
+
+Claude Code, Codex, Gemini, Copilot, Cursor and 35 more can work on the same project at once without overwriting each other: each agent gets its own worktree with ports and dependencies set up, Ramify detects them with no per-tool setup, shows who is doing what, and merges finished work in one click, explaining conflicts instead of breaking anything. Desktop app for macOS and Windows, CLI, VS Code extension and Claude Code plugin; local-first, no telemetry.
+
+> **Why:** running agents in parallel is fast until they step on each other; this is the workflow I use every day.
+
+`TypeScript` `Electron` `Git worktrees` `Agents` `VS Code`
+
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -119,7 +132,7 @@ Synthetic, reproducible ES/EN dataset of invoices, utility bills, leases, rent r
 ### <img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/apps/web/app/icon.svg" height="28" align="top" alt=""> [Signoff](https://github.com/diegoperezg7/signoff)
 **Prove what was agreed, built, verified and accepted, with governed AI agents.**
 
-<a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/images/11-agents.png" alt="Signoff agents panel"></a>
+<a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/screenshots/07-agents-light.png" alt="Signoff agents panel"></a>
 
 Software delivery assurance: from the client agreement to a signed-off acceptance, with requirements, change control, verification and evidence. **8 governed AI agents** with finite plans, allow-listed tools, resumable runs and human approval for every write.
 
@@ -130,42 +143,16 @@ Software delivery assurance: from the client agreement to a signed-off acceptanc
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/diegoperezg7/ai-learn/main/frontend/public/assets/ai-learn-mark-light.png" height="28" align="top" alt=""> [AI-Learn](https://github.com/diegoperezg7/ai-learn)
-**The system I use to run my own AI engineering roadmap.**
+### <img src="https://raw.githubusercontent.com/diegoperezg7/visor/main/docs/images/icon.png" height="28" align="top" alt=""> [Visor](https://github.com/diegoperezg7/visor)
+**The MacBook notch turned into a useful place, including your AI agents.**
 
-<a href="https://github.com/diegoperezg7/ai-learn"><img src="https://raw.githubusercontent.com/diegoperezg7/ai-learn/main/docs/dashboard-dark.png" alt="AI-Learn dashboard"></a>
+<a href="https://github.com/diegoperezg7/visor"><img src="https://raw.githubusercontent.com/diegoperezg7/visor/main/docs/images/shelf.png" alt="Visor open under the notch"></a>
 
-Scoped daily sessions, skill levels that only rise with evidence, spaced-repetition interview prep and a **local LLM coach** that reviews my work but never writes the solution.
+Native macOS app: a file shelf, clipboard history, agenda and mail, music, call controls and live **AI coding agent status** with usage limits, all one hover away. Signed, notarized and auto-updating, used every day.
 
-> **Why:** progress is easy to fake; this one only counts evidence.
+> **Why:** the notch is wasted space, and checking on agents should not mean switching windows.
 
-`FastAPI` `React` `Ollama` `SSO`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/diegoperezg7/server-monitor-AI/main/public/icon-192.png" height="28" align="top" alt=""> [server-monitor-AI](https://github.com/diegoperezg7/server-monitor-AI)
-**Home-server dashboard with a security digest written by a local LLM.**
-
-<a href="https://github.com/diegoperezg7/server-monitor-AI"><img src="https://raw.githubusercontent.com/diegoperezg7/server-monitor-AI/main/docs/screenshots/attack-map.png" alt="server-monitor attack map"></a>
-
-Runs on the same home server as everything else: Netdata, Docker, CrowdSec with an attack map, Telegram alerts, auto-recovery and a **daily security digest written by a local LLM** that can only cite real events.
-
-`Node.js` `CrowdSec` `Docker` `Ollama`
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/frontend/src/app/icon.svg" height="28" align="top" alt=""> [MyInvestIA](https://github.com/diegoperezg7/MyInvestIA)
-**Investment dashboard: deterministic signals, LLM-written explanations.**
-
-<a href="https://github.com/diegoperezg7/MyInvestIA"><img src="https://raw.githubusercontent.com/diegoperezg7/MyInvestIA/main/docs/screenshots/home.png" alt="MyInvestIA home"></a>
-
-Multi-provider market data, quant scoring, sentiment and macro context, with **LLM-written explanations** on top of deterministic signals.
-
-`FastAPI` `Next.js` `Quant` `LLM`
+`Swift` `SwiftUI` `AppKit` `Sparkle` `macOS`
 
 </td>
 </tr>
