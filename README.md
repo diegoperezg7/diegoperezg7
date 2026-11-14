@@ -33,6 +33,19 @@ LAU contracts, IPC/IRAV rent updates, receipts, passed-on bills, expenses, IRPF 
 
 <br>
 
+### <img src="https://raw.githubusercontent.com/diegoperezg7/ramify/main/docs/logo.png" height="28" align="top" alt=""> [Ramify](https://github.com/diegoperezg7/ramify)
+**See and control every AI coding agent on your machine, each on its own branch.**
+
+<a href="https://github.com/diegoperezg7/ramify"><img src="https://raw.githubusercontent.com/diegoperezg7/ramify/main/docs/screenshots/app-control-light.png" alt="Ramify control center" width="100%"></a>
+
+Claude Code, Codex, Gemini, Copilot, Cursor and 35 more can work on the same project at once without overwriting each other: each agent gets its own worktree with ports and dependencies set up, Ramify detects them with no per-tool setup, shows who is doing what, and merges finished work in one click, explaining conflicts instead of breaking anything. Desktop app for macOS and Windows, CLI, VS Code extension and Claude Code plugin; local-first, no telemetry.
+
+> **Why:** running agents in parallel is fast until they step on each other; this is the workflow I use every day.
+
+`TypeScript` `Electron` `Git worktrees` `Agents` `VS Code`
+
+<br>
+
 ### <img src="https://raw.githubusercontent.com/diegoperezg7/ragcompass/main/docs/assets/logo.svg" height="28" align="top" alt=""> [ragcompass](https://github.com/diegoperezg7/ragcompass)
 **Point it at your documents and get a benchmarked RAG configuration.**
 
@@ -49,19 +62,6 @@ Every recommendation comes with its reason and its evidence: parser per format (
 > **Why:** "how should I configure this RAG?" is usually answered by guesswork.
 
 `Python` `FastAPI` `React` `RAG` `MCP` `Embeddings`
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/diegoperezg7/ramify/main/docs/logo.png" height="28" align="top" alt=""> [Ramify](https://github.com/diegoperezg7/ramify)
-**See and control every AI coding agent on your machine, each on its own branch.**
-
-<a href="https://github.com/diegoperezg7/ramify"><img src="https://raw.githubusercontent.com/diegoperezg7/ramify/main/docs/screenshots/app-control-light.png" alt="Ramify control center" width="100%"></a>
-
-Claude Code, Codex, Gemini, Copilot, Cursor and 35 more can work on the same project at once without overwriting each other: each agent gets its own worktree with ports and dependencies set up, Ramify detects them with no per-tool setup, shows who is doing what, and merges finished work in one click, explaining conflicts instead of breaking anything. Desktop app for macOS and Windows, CLI, VS Code extension and Claude Code plugin; local-first, no telemetry.
-
-> **Why:** running agents in parallel is fast until they step on each other; this is the workflow I use every day.
-
-`TypeScript` `Electron` `Git worktrees` `Agents` `VS Code`
 
 <br>
 
@@ -129,20 +129,6 @@ Synthetic, reproducible ES/EN dataset of invoices, utility bills, leases, rent r
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/apps/web/app/icon.svg" height="28" align="top" alt=""> [Signoff](https://github.com/diegoperezg7/signoff)
-**Prove what was agreed, built, verified and accepted, with governed AI agents.**
-
-<a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/screenshots/07-agents-light.png" alt="Signoff agents panel"></a>
-
-Software delivery assurance: from the client agreement to a signed-off acceptance, with requirements, change control, verification and evidence. **8 governed AI agents** with finite plans, allow-listed tools, resumable runs and human approval for every write.
-
-> **Why:** most delivery disputes come from scope nobody can prove.
-
-`FastAPI` `Next.js` `PostgreSQL` `Redis` `Agents`
-
-</td>
-<td width="50%" valign="top">
-
 ### <img src="https://raw.githubusercontent.com/diegoperezg7/visor/main/docs/images/icon.png" height="28" align="top" alt=""> [Visor](https://github.com/diegoperezg7/visor)
 **The MacBook notch turned into a useful place, including your AI agents.**
 
@@ -153,6 +139,20 @@ Native macOS app: a file shelf, clipboard history, agenda and mail, music, call 
 > **Why:** the notch is wasted space, and checking on agents should not mean switching windows.
 
 `Swift` `SwiftUI` `AppKit` `Sparkle` `macOS`
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/apps/web/app/icon.svg" height="28" align="top" alt=""> [Signoff](https://github.com/diegoperezg7/signoff)
+**Prove what was agreed, built, verified and accepted, with governed AI agents.**
+
+<a href="https://github.com/diegoperezg7/signoff"><img src="https://raw.githubusercontent.com/diegoperezg7/signoff/main/docs/screenshots/07-agents-light.png" alt="Signoff agents panel"></a>
+
+Software delivery assurance: from the client agreement to a signed-off acceptance, with requirements, change control, verification and evidence. **8 governed AI agents** with finite plans, allow-listed tools, resumable runs and human approval for every write.
+
+> **Why:** most delivery disputes come from scope nobody can prove.
+
+`FastAPI` `Next.js` `PostgreSQL` `Redis` `Agents`
 
 </td>
 </tr>
